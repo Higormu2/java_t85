@@ -22,7 +22,7 @@ public class Atividade_04_CollectionSetEncontre {
 		numeros.add(10);
 		
 		int receba;
-		int nTem= 0;
+		//int nTem= 0;
 		
 		System.out.println("Digite o número que você deseja encontrar: ");
 		receba = leia.nextInt();
